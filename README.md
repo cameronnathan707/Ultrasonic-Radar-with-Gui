@@ -1,5 +1,5 @@
 # Ultrasonic Radar with Gui
- This is Not my idea and it comes from Dejan Nedelkovski and the tutorial can be found on his website 
+ This is not my idea and it comes from Dejan Nedelkovski and the tutorial can be found on his website 
  www.HowToMechatronics.com 
 
  ## Getting Started 
@@ -8,7 +8,7 @@
  3. Run the .pde file on you computer
 
  ## Trouble shooting 
- ### 1. Not uploading to the Board, 
+ ###  1. Not uploading to the Board, 
 - Make sure the the board is plugged in to the computer
 - Have the right board and COM Port are selected in the editor
 - Try disconnecting the sensors connected to the SDA, SCL pins
@@ -25,4 +25,12 @@
 
 ### 4. The .pde can't access/run the code 
 - Make sure the Arduino Serial is closed
-- Check the font  
+- Check the font, under not compiling  
+
+## Parts
+### Arduino Uno
+- https://www.amazon.ca/Elegoo-Board-ATmega328P-ATMEGA16U2-Arduino/dp/B01EWOE0UU/ref=sr_1_9?dchild=1&keywords=arduino+uno&qid=1623704701&sr=8-9 
+
+### Ultrasonic Sensor and Servo 
+servo might need upgrading to something more powerful
+- https://www.amazon.ca/Ultrasonic-Bracket-HC-SR04-Distance-Helicopter/dp/B07ZCLMLXK/ref=sr_1_1?dchild=1&keywords=servo+and+ultrasonic&qid=1623704674&sr=8-1 

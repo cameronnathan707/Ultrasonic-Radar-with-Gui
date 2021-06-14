@@ -1,4 +1,13 @@
-// Includes the Servo library
+/*   Arduino Radar Project
+ *
+ *   Updated version. Fits any screen resolution!
+ *   Just change the values in the size() function,
+ *   with your screen resolution.
+ *      
+ *  by Dejan Nedelkovski, 
+ *  www.HowToMechatronics.com
+ *  
+ */
 #include <Servo.h>. 
 
 // Defines Tirg and Echo pins of the Ultrasonic Sensor
